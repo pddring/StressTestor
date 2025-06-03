@@ -78,7 +78,6 @@
             txtURL.Name = "txtURL";
             txtURL.Size = new Size(243, 23);
             txtURL.TabIndex = 3;
-            txtURL.Text = "https://blog.withcode.uk";
             // 
             // tableLayoutPanel1
             // 
